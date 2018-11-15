@@ -8,7 +8,7 @@
 --------
 - Arduino library for E-Ink display(1.54, 2.3, 2.9) made by HelTec Automation(TM)
 - This library allows three sizes of e-ink to run on the Arduino development board.
-- You may need change some definition in "e-ink.h" ...
+- You may need change some definition in "imagedata.h" ...
 # Installing
 ----------
 To install this library:
